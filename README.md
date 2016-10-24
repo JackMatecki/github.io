@@ -1,2 +1,2 @@
-# github.io
+# jackmatecki.github.io
 Resume
